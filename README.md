@@ -1,7 +1,7 @@
 # Employee Management System
 ## MERN Stack Project
 
-![Employee Management Logo](https://your-logo-url.png "Employee Management")
+
 ![ICT Academy Logo](https://raw.githubusercontent.com/gouthamsanthosh-gsx/FINANCE-REPORT/main/github/ictacademy.png "ICT Academy Kerala")
 
 ### Developer
