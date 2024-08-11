@@ -7,7 +7,7 @@
 ### Developer
 | Name                | GitHub Profile                            |
 |---------------------|-------------------------------------------|
-| [Vyshnavi Krishnakumar](https://github.com/Vyshnavikrishnakumar) | [Vyshnavi Krishnakumar](https://github.com/Vyshnavikrishnakumar) |
+| [Vyshnavi Krishnakumar]|(https://github.com/Vyshnavikrishnakumar) |
 
 ## 1. Introduction
 ### 1.1. Purpose
